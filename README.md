@@ -1,2 +1,0 @@
-﻿# Login-page
-https://github.com/anilgorade8-star/Login-page.git
